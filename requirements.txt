@@ -1,0 +1,1 @@
+sklearn, matplotlib,pandas, numpy, matplotlib, statsmodels, pandas_datareader, datetime, yfinance, sklearn, PyPortfolioOpt,SVM
